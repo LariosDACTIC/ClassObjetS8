@@ -6,6 +6,8 @@
         {
             Console.WriteLine("Hello, mundo!");
 
+            Console.WriteLine("Validando cambios");
+
             //*Person*//
 
             // Crear un objeto de tipo Persona

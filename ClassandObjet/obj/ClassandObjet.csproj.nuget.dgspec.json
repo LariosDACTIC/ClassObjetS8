@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexl\\OneDrive\\Documentos\\CLASES UNI\\Programacion l\\Paralelo Programacion 1 - 2024\\Sesiones\\Unidad2\\sesion8\\ClassandObjet\\ClassandObjet\\ClassandObjet.csproj": {}
+    "C:\\Users\\alexl\\OneDrive\\Documentos\\CLASES UNI\\Programacion l\\Paralelo Programacion 1 - 2024\\Sesiones\\Unidad2\\sesion8\\ClassObjetS8\\ClassandObjet\\ClassandObjet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexl\\OneDrive\\Documentos\\CLASES UNI\\Programacion l\\Paralelo Programacion 1 - 2024\\Sesiones\\Unidad2\\sesion8\\ClassandObjet\\ClassandObjet\\ClassandObjet.csproj": {
+    "C:\\Users\\alexl\\OneDrive\\Documentos\\CLASES UNI\\Programacion l\\Paralelo Programacion 1 - 2024\\Sesiones\\Unidad2\\sesion8\\ClassObjetS8\\ClassandObjet\\ClassandObjet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexl\\OneDrive\\Documentos\\CLASES UNI\\Programacion l\\Paralelo Programacion 1 - 2024\\Sesiones\\Unidad2\\sesion8\\ClassandObjet\\ClassandObjet\\ClassandObjet.csproj",
+        "projectUniqueName": "C:\\Users\\alexl\\OneDrive\\Documentos\\CLASES UNI\\Programacion l\\Paralelo Programacion 1 - 2024\\Sesiones\\Unidad2\\sesion8\\ClassObjetS8\\ClassandObjet\\ClassandObjet.csproj",
         "projectName": "ClassandObjet",
-        "projectPath": "C:\\Users\\alexl\\OneDrive\\Documentos\\CLASES UNI\\Programacion l\\Paralelo Programacion 1 - 2024\\Sesiones\\Unidad2\\sesion8\\ClassandObjet\\ClassandObjet\\ClassandObjet.csproj",
+        "projectPath": "C:\\Users\\alexl\\OneDrive\\Documentos\\CLASES UNI\\Programacion l\\Paralelo Programacion 1 - 2024\\Sesiones\\Unidad2\\sesion8\\ClassObjetS8\\ClassandObjet\\ClassandObjet.csproj",
         "packagesPath": "C:\\Users\\alexl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexl\\OneDrive\\Documentos\\CLASES UNI\\Programacion l\\Paralelo Programacion 1 - 2024\\Sesiones\\Unidad2\\sesion8\\ClassandObjet\\ClassandObjet\\obj\\",
+        "outputPath": "C:\\Users\\alexl\\OneDrive\\Documentos\\CLASES UNI\\Programacion l\\Paralelo Programacion 1 - 2024\\Sesiones\\Unidad2\\sesion8\\ClassObjetS8\\ClassandObjet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexl\\AppData\\Roaming\\NuGet\\NuGet.Config",

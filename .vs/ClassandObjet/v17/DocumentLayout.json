@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alexl\\OneDrive\\Documentos\\CLASES UNI\\Programacion l\\Paralelo Programacion 1 - 2024\\Sesiones\\Unidad2\\sesion8\\ClassandObjet\\",
+  "WorkspaceRootPath": "C:\\Users\\alexl\\OneDrive\\Documentos\\CLASES UNI\\Programacion l\\Paralelo Programacion 1 - 2024\\Sesiones\\Unidad2\\sesion8\\ClassObjetS8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{295AC57D-4219-4F23-9C30-493BF1DA1A74}|ClassandObjet\\ClassandObjet.csproj|c:\\users\\alexl\\onedrive\\documentos\\clases uni\\programacion l\\paralelo programacion 1 - 2024\\sesiones\\unidad2\\sesion8\\classandobjet\\classandobjet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{295AC57D-4219-4F23-9C30-493BF1DA1A74}|ClassandObjet\\ClassandObjet.csproj|c:\\users\\alexl\\onedrive\\documentos\\clases uni\\programacion l\\paralelo programacion 1 - 2024\\sesiones\\unidad2\\sesion8\\classobjets8\\classandobjet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{295AC57D-4219-4F23-9C30-493BF1DA1A74}|ClassandObjet\\ClassandObjet.csproj|solutionrelative:classandobjet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,18 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alexl\\OneDrive\\Documentos\\CLASES UNI\\Programacion l\\Paralelo Programacion 1 - 2024\\Sesiones\\Unidad2\\sesion8\\ClassandObjet\\ClassandObjet\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexl\\OneDrive\\Documentos\\CLASES UNI\\Programacion l\\Paralelo Programacion 1 - 2024\\Sesiones\\Unidad2\\sesion8\\ClassObjetS8\\ClassandObjet\\Program.cs",
               "RelativeDocumentMoniker": "ClassandObjet\\Program.cs",
-              "ToolTip": "C:\\Users\\alexl\\OneDrive\\Documentos\\CLASES UNI\\Programacion l\\Paralelo Programacion 1 - 2024\\Sesiones\\Unidad2\\sesion8\\ClassandObjet\\ClassandObjet\\Program.cs",
+              "ToolTip": "C:\\Users\\alexl\\OneDrive\\Documentos\\CLASES UNI\\Programacion l\\Paralelo Programacion 1 - 2024\\Sesiones\\Unidad2\\sesion8\\ClassObjetS8\\ClassandObjet\\Program.cs",
               "RelativeToolTip": "ClassandObjet\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAmwC4AAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T21:05:08.228Z",
+              "WhenOpened": "2024-05-03T00:39:18.785Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
